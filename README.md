@@ -1,1 +1,1 @@
-# WebsiteToS3
+# StaticWebsitetoS3
